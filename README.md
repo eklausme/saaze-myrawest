@@ -9,11 +9,12 @@
 Here is another theme called [Myra West](https://eklausmeier.goip.de/myrawest) for [_Simplified Saaze_](https://eklausmeier.goip.de/blog/2021/10-31-simplified-saaze).
 
 Some key features of the theme:
-1. Light weight
+1. Lightweight
 2. Responsive with media breaks at 40rem and 60rem
-3. Hero image is showing a parallax, see [W3 schools example](https://www.w3schools.com/howto/tryhow_css_parallax_demo_none.htm)
+3. A hero image is showing a parallax, see [W3 schools example](https://www.w3schools.com/howto/tryhow_css_parallax_demo_none.htm)
 4. Static site search using [pagefind](https://eklausmeier.goip.de/blog/2023/10-23-pagefind-searching-in-static-sites)
 
+![](https://eklausmeier.goip.de/img/MyraWestOnPCs.web)
 ![](https://eklausmeier.goip.de/img/MyraWestOnX14.web)
 
 See [Example Theme for Simplified Saaze: Myra West](https://eklausmeier.goip.de/blog/2024/12-10-example-theme-for-simplified-saaze-myra-west) for installation, conversion, and usage.

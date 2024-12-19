@@ -20,10 +20,7 @@
 		// Skinny version
 		echo '<a href="https://www.youtube.com/watch?v=' . $entry['youtube'] . '"><img alt=YouTube src="https://i.ytimg.com/vi/' . $entry['youtube'] .'/hqdefault.jpg"></a>' . "\n" ;
 	}
-	/*echo $entry['content'];*/
-	$s = str_replace('*%3C?','<?',$entry['content']);
-	$s = str_replace('?%3E*','?>',$s);
-	require 'data:text/plain;base64,'.base64_encode($s);
+	eval( '?>' . str_replace('?%3E*','?>',str_replace('*%3C?','<?',$entry['content'])) );
 ?>
 	</article>
 <div class=parallax></div>
