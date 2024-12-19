@@ -14,7 +14,7 @@ Some key features of the theme:
 3. A hero image is showing a parallax, see [W3 schools example](https://www.w3schools.com/howto/tryhow_css_parallax_demo_none.htm)
 4. Static site search using [pagefind](https://eklausmeier.goip.de/blog/2023/10-23-pagefind-searching-in-static-sites)
 
-![](https://eklausmeier.goip.de/img/MyraWestOnPCs.web)
+![](https://eklausmeier.goip.de/img/MyraWestOnPCs.jpg)
 ![](https://eklausmeier.goip.de/img/MyraWestOnX14.web)
 
 See [Example Theme for Simplified Saaze: Myra West](https://eklausmeier.goip.de/blog/2024/12-10-example-theme-for-simplified-saaze-myra-west) for installation, conversion, and usage.
