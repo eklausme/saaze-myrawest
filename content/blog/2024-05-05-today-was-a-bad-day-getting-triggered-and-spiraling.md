@@ -1,6 +1,6 @@
 ---
 date: "2024-05-05 12:00:00"
-title: "Today was A bad Mental Health Day. Getting Triggered and Spiraling"
+title: "Today Was A bad Mental Health Day. Getting Triggered and Spiraling"
 youtube: "Flqnc24raPc"
 ---
 
@@ -32,7 +32,7 @@ I just don't even know how he and I share the same reality with how twisted he m
 
 But anyway, all right, that's the relationship stuff. So, he basically was just telling me today how I zapped all his energy and how I was expecting too much from him and that now he's happier and has more time to himself and this and that. And I'm like, just makes me feel like shit. And I already feel low, and on top of that, I missed him, and I see a lot of positive things. So, I answered him, and I was like, all I want with this breakup, all I want is for us to end it amicably. I just want him to acknowledge how I gave to him and what I gave to him because he talks and acts like he sacrificed so much to be with me when, even if that's the case, which I don't really think he did sacrifice a lot — like, I didn't ask him to sacrifice — but even if that is the case, I sacrificed for him like crazy, and I would say I sacrificed more for him. For example, I was always the one driving to him. I drove to him every single time we ever hung out. He never came to my place, which is whatever. I was good with that.
 
-Um, so I was always the one who was uprooted, and when I would spend a weekend day with him or this or that, I would pack my bag. So every time I went to visit him, I had this bag that I would pack of stuff, and I felt very uprooted, and my life was very like crazy because of it. And I had another thought. Oh, yeah, just what I was saying earlier, that I was like expecting too much from him? I had literally asked, could we spend one day together each week? Like, one full day? Is that too much? Like, a Saturday? I had asked for Saturday or Sunday to just spend the day together because our entire relationship, we saw each other after work. So we would literally only see each other from like 5:30, maybe 6:30, 7:30 — sometimes it was 6:30, 7:30, 8:30 — to bedtime. Our relationship was like an evening, three-hour relationship, and that just felt weird.
+So I was always the one who was uprooted, and when I would spend a weekend day with him or this or that, I would pack my bag. So every time I went to visit him, I had this bag that I would pack of stuff, and I felt very uprooted, and my life was very like crazy because of it. And I had another thought. Oh, yeah, just what I was saying earlier, that I was like expecting too much from him? I had literally asked, could we spend one day together each week? Like, one full day? Is that too much? Like, a Saturday? I had asked for Saturday or Sunday to just spend the day together because our entire relationship, we saw each other after work. So we would literally only see each other from like 5:30, maybe 6:30, 7:30 — sometimes it was 6:30, 7:30, 8:30 — to bedtime. Our relationship was like an evening, three-hour relationship, and that just felt weird.
 
 I was like, if we're in a relationship and we're partners, I want to like have the experience of spending a day with you. Anyway, he thought that was too much, too much to ask. I also like had to make sure that I kept my schedule very open and very flexible so that whenever he was available or whenever it worked best for him to see each other, that I would be available because it was a priority for me to see him. And if I was making all my own plans, then the one time he was available, there was a good chance I'd be busy. So I always kept my schedule quite open and flexible for him, and I always saw him on his invitation. Like, I would never ask to hang out with him. I would wait for him to invite me over, and it was just all on his time, whatever worked best for him.
 
@@ -122,7 +122,7 @@ or
 And it's literally that I am sacrificing myself and my sanity for you. Like, I am literally so exposed and so vulnerable and so open for all these comments to come and attack me. I'm doing it literally for you. And when I say for you, I mean the specific people. People who are struggling in the same ways that I struggle. I don't care about anybody else. Like, I'm not doing this for anyone else.
 
 There's so many people who are like,
-> "Um, I don't relate to this. I don't know why you're posting this,"
+> "I don't relate to this. I don't know why you're posting this,"
 
 It's like, okay, then it's not for you. People complain about there being so much fakeness on social media and so much toxic positivity and so much  people just faking it and showing only their happy days or their best moments. People complain about that, but when I and others share pain or cry or share heartbreak or any other negative part or depression, there are so many comments who are like,
 > "Why are you sharing this? Like, you're being way too personal. Like, you need to keep this to yourself. Like, this is so negative. Why are you sharing this?"

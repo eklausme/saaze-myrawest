@@ -10,6 +10,8 @@ My name is Myra West.
 I was born in February 1998.
 I live in the [US midwestern](https://en.wikipedia.org/wiki/Midwestern_United_States).
 
+For Business inquires: Myrawestbusiness@gmail.com
+
 This blog documents my journey through friendship, dating, social anxiety, traveling, and thinking about my upbringing.
 
 There are three other presences:

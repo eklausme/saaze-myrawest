@@ -88,7 +88,10 @@ And then I left.
 
 He laughed and smiled and whatever. So it was a good exchange, and now I'm never gonna see him again. And, yeah, that was good. I'm probably gonna have to rollerblade now, to rollerblade my feelings away.
 
-But I did have a thought recently, which was, instead of using dating apps, what if I was able to just muster the courage to talk to the guys that I find so attractive? Because like, usually if I go out in public, especially in this town, which is filled with handsome people and beautiful people, it's very looks-based in this town, um, if, if I go out, usually I see one person a day who I find very attractive. And what if I just walked right up to them and was like, "Hey, I find you very attractive. Would you like to get coffee or something like that?" So, like, isn't that kind of cool that I could like actually date the people or actually ask out the people and possibly date one of them who I find like already really attractive to me?
+But I did have a thought recently, which was, instead of using dating apps, what if I was able to just muster the courage to talk to the guys that I find so attractive? Because usually if I go out in public, especially in this town, which is filled with handsome people and beautiful people, it's very looks-based in this town. If I go out, usually I see one person a day who I find very attractive. And what if I just walked right up to them and was like,
+> "Hey, I find you very attractive. Would you like to get coffee or something like that?"
+
+So, like, isn't that kind of cool that I could like actually date the people or actually ask out the people and possibly date one of them who I find like already really attractive to me?
 
 
 ## Men approaching me

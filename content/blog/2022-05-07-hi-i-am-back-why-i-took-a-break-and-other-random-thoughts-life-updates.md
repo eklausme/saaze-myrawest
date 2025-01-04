@@ -70,7 +70,7 @@ You know what another thing I got, weirdly? Kalamata olives. I love them. I lite
 __1.__ I’m on my lunch break at work, and I guess before I wrap up the video, I want to just say a couple of the reasons why I took a break. I think the main one actually was that I got so drained and heavy-hearted from all the negative comments, which I know I’ve gotten 99% positive. I don’t want to defend it. It’s just how I felt. So those really got to me. There was so much negativity that was hitting me, because _I read all the comments_ on all my videos.
 
 And it’s just I was like,
-> “This might be a huge, massive mistake to be so personal, because you give other people um, so much power to very personally insult you and your character.”
+> “This might be a huge, massive mistake to be so personal, because you give other people so much power to very personally insult you and your character.”
 
 And a lot of people would hit on the things that I was most insecure about or the things that I care the most about, like insulting my character. So that really got to me. So I kept considering and I keep considering what would happen if I turned off the comments completely, and I wouldn’t be surprised if I do that for the next few videos.
 
@@ -79,7 +79,7 @@ I love connecting with the people that I love and are positive and encouraging, 
 
 The negative comments make me feel like I’m not even making any kind of positive difference, and actually, I’m making a negative difference by bringing more negativity to the internet.
 
-Even my last video was negative or it generated so much negative response, just me talking um, so I’m trying to think about that.
+Even my last video was negative or it generated so much negative response, just me talking, so I’m trying to think about that.
 
 So that was the main reason.
 
