@@ -15,7 +15,7 @@ Some key features of the theme:
 4. Static site search using [pagefind](https://eklausmeier.goip.de/blog/2023/10-23-pagefind-searching-in-static-sites)
 
 ![](https://eklausmeier.goip.de/img/MyraWestOnPCs.jpg)
-![](https://eklausmeier.goip.de/img/MyraWestOnX14.web)
+![](https://eklausmeier.goip.de/img/MyraWestOnX14.webp)
 
 See [Example Theme for Simplified Saaze: Myra West](https://eklausmeier.goip.de/blog/2024/12-10-example-theme-for-simplified-saaze-myra-west) for installation, conversion, and usage.
 
