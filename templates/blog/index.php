@@ -14,15 +14,16 @@ require SAAZE_PATH . "/templates/top-layout.php";
 	<article>
 	<br>
 	<?php if ($pagination['nextUrl']) { ?>
-	<a href="<?= $rbase . $pagination['nextUrl'] ?>">&larr; Older</a> &nbsp; &nbsp; &nbsp;
+	<a href="<?= $rbase . "/" . ltrim($pagination['nextUrl'],"/") ?>">&larr; Older</a> &nbsp; &nbsp; &nbsp;
 	<?php } ?>
 	<?php if ($pagination['prevUrl']) { ?>
-	<a href="<?= $rbase . $pagination['prevUrl'] ?>">Newer &rarr;</a>
+	<a href="<?= $rbase . "/" . ltrim($pagination['prevUrl'],"/") ?>">Newer &rarr;</a>
 	<?php } ?>
 	<br><br>
 	</article>
 <div class=parallax></div>
 </main>
+
 
 <?php /* require SAAZE_PATH . "/templates/all-years.php"; */ ?>
 <?php require SAAZE_PATH . "/templates/bottom-layout.php"; ?>
