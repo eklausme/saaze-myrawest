@@ -1,6 +1,6 @@
 ---
 date: "2019-09-09 12:00:00"
-title: "15 Things I Wish I Knew at 18-- What I Would Tell Myself at 18"
+title: "15 Things I Wish I Knew at 18 &mdash; What I Would Tell Myself at 18"
 description: "Life as a young adult, how the social environment affects you, take health seriously, make a future overall plan, dress modestly."
 youtube: "-JnBHWIoNUw"
 ---

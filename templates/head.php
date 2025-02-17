@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<?php $metaDescription="Myra West's Blog"; ?>
+<?php
+	$url = ltrim($url ?? '','/');
+	if ($url !== '') $url = '/' . $url;
+?>
 <html lang="<?= $entry['lang'] ?? 'en' ?>">
 
 <head>
@@ -8,10 +11,10 @@
 
 	<link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAF7/cAumQHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon">
 
-	<link rel="canonical" href="https://eklausmeier.goip.de/myrawest<?=$url??''?>">
+	<link rel="canonical" href="https://eklausmeier.goip.de/myrawest<?=$url?>">
 	<link rel="alternate" type="application/rss+xml" title="RSS" href="https://eklausmeier.goip.de/myrawest/feed.xml">
 <?php if (isset($pagination)) { ?>
-	<meta name="description" content="<?=$metaDescription?>">
+	<meta name="description" content="Myra West's Blog">
 <?php } else if (isset($entry['description'])) { ?>
 	<meta name="description" content="<?=$entry['description']?>">
 <?php } ?>

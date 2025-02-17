@@ -25,5 +25,4 @@ require SAAZE_PATH . "/templates/top-layout.php";
 </main>
 
 
-<?php /* require SAAZE_PATH . "/templates/all-years.php"; */ ?>
 <?php require SAAZE_PATH . "/templates/bottom-layout.php"; ?>
