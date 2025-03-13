@@ -1,6 +1,8 @@
 <?php require SAAZE_PATH . "/templates/head.php"; ?>
 	<title><?= $title ?? 'Saaze' ?></title>
 
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="yTUhMMEASRjeaM8armGiZQ" async></script>
+
 <style>
 /* CSS for Myra West's blog
    12-Nov-2024: Initial revision based on Elmar Klausmeier's blog
