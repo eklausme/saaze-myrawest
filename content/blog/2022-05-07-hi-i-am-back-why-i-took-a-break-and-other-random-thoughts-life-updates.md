@@ -1,6 +1,6 @@
 ---
 date: "2022-05-07 12:00:00"
-title: "Hi, I'm back. Why I took a break & other random thoughts/life updates"
+title: "Hi, I'm back. Why I took a break &amp; other random thoughts/life updates"
 youtube: "UaclxEvsKOM"
 ---
 

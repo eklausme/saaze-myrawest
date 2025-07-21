@@ -1,6 +1,6 @@
 ---
 date: "2024-05-17 12:00:00"
-title: "Chances of meeting &ldquo;the one&rdquo; are near 0%, if you're taking no action"
+title: "Chances of meeting “the one” are near 0%, if you're taking no action"
 youtube: "WCTOlexiKMk"
 ---
 

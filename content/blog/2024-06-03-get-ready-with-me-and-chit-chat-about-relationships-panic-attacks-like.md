@@ -1,6 +1,6 @@
 ---
 date: "2024-06-03 12:00:00"
-title: "Get Ready with me & chit chat about relationships, panic attacks, life...."
+title: "Get Ready with me &amp; chit chat about relationships, panic attacks, life...."
 youtube: "jByCblHJKs4"
 ---
 
