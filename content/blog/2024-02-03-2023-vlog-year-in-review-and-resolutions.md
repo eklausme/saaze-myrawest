@@ -6,5 +6,5 @@ youtube: "SExsJvpQ88A"
 
 Sample from above YouTube video.
 
-[gallery] @/img /(Family|Houses1|MusicFestival|HighFive).webp/ [/gallery]
+[gallery] /img /(Family|Houses1|MusicFestival|HighFive).webp/ [/gallery]
 
