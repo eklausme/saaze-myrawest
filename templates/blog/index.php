@@ -3,6 +3,7 @@ $title = "{$collection['title']} (Page {$pagination['currentPage']})";
 require SAAZE_PATH . "/templates/top-layout.php";
 ?>
 
+<h1 hidden style="display:none"><?=$title?></h1>
 <?php foreach ($pagination['entries'] as $entry) { ?>
 	<article>
 	<h2><a href="<?= $rbase . $entry['url'] ?>"><?= $entry['title'] ?? 'Unknown title' ?></a></h2>
